@@ -1,8 +1,10 @@
 # Demucs Music Source Separation
 
-[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
 ![tests badge](https://github.com/facebookresearch/demucs/workflows/tests/badge.svg)
 ![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
+
+
+**Important:** This project **is not actively maintained anymore** and only important bug fixes will be processed on the new repo. **Please do not open issues for feature request or if Demucs doesn't work perfectly for your use case :)**
 
 
 This is the 4th release of Demucs (v4), featuring Hybrid Transformer based source separation.
