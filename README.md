@@ -4,7 +4,9 @@
 ![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
 
 
-**Important:** This project **is not actively maintained anymore** and only important bug fixes will be processed on the new repo. **Please do not open issues for feature request or if Demucs doesn't work perfectly for your use case :)**
+**This is the officially maintained Demucs** now that I (Alexandre Défossez) have left Meta to join [Kyutai](https://twitter.com/kyutai_labs).
+Note that I'm not actively working on Demucs anymore, so expect slow replies and no new feature for now.
+
 
 
 This is the 4th release of Demucs (v4), featuring Hybrid Transformer based source separation.
